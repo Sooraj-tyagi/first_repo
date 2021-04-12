@@ -8,10 +8,10 @@ public class simple {
         String s=new String();
         Object o=new Object();
 	
-		//System.out.println(t==o);
-		//System.out.println('a'='b');
-		//System.out.println(s==o);
-		System.out.println(t==s);
+		System.out.println(t==o);
+		System.out.println('a'='b');
+		System.out.println(s==o);
+		//System.out.println(t==s);
 		
 	}
 
